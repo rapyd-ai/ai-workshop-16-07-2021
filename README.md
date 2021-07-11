@@ -29,7 +29,7 @@ Content can be processed automaticall using AI so that meaningful attributes, ke
 -   Drive reader engagement by automatically delivering content about their favorite topics
 -   Feed content labels into recommendation systems for automatic personalization and better user experience
 
-### Building your content Labelling
+### Create Your Content Labelling
 1. Open your Jupytor
 Open your created Jupytor.
 2. Import requird libraries
@@ -40,12 +40,14 @@ Open your created Jupytor.
 	```python
 	import python from python
 	```
-4. Call your first content labelling
+4. Test your first content labelling
 	```python
 	import python from python
 	```
-5. 
-
+5. Extend Your Code
+	```python
+	import python from python
+	```
 ## Use Case 2: Counting People on Image
 
 ## Use Case 3:  Show Wikipedia Info for Tourist Attractions
