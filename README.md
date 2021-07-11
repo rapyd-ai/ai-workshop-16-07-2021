@@ -1,2 +1,11 @@
-# ai-workshop-16-07-2021
-AI Workshop: Bring Your Use Case Ideas to Life
+# Welcome to RAPYD.AI Workshop
+
+## Prerequisites
+
+### RAPYD.AI Registration
+
+### Create Your Jupytor  Server
+
+## Use Case 1: NLP
+
+## Use Case 2: 
