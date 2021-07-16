@@ -4,52 +4,23 @@
 ## Prerequisites
 
 ### RAPYD.AI Registration
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+1. Click below link for Registration.
+https://www.rapyd.ai/app/sign-up
 
-### Create Your Jupytor  Server
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+2. Please check your inbox and confirm your email using the link we sent you.
+![Confirm Email](https://i.ibb.co/SnhKYmT/Screenshot-2021-07-16-at-10-24-03.png)
 
-## Use Case 1: Content Labelling
-![Content Labelling](https://uploads-ssl.webflow.com/5eb149ba497bfa1cb5f4b555/5fac440e265a41c67ad875f3_content-labelling-example.png)
+3. Click on verify the link then should see the message "successfully verified".
+![Sign In](https://i.ibb.co/2nqktR4/Screenshot-2021-07-16-at-10-28-12.png)
 
-| Industry Vertical | AI Services Used |
-|--|--|
-| Marketing , Publishing | [Keyphrase](https://www.rapyd.ai/ai-services/key-phrase-analysis) |
-### Description
-As your content library grows, managing the content becomes crucial. AI-powered content labelling can help to identify known entities found in the text and suggest these as content labels to editors and authors.
-### Problem
-Content articles are not being read because they are not found by your audience or hidden inside your content catalogue. Manual tagging or labelling by hand is a tedious and costly task, especially for large archives.
+4. Click on Sign In. Login to RAPYD.AI with your username and password. You can find your account id and generate a token.
+![Dashboard](https://i.ibb.co/FXjMWL3/Screenshot-2021-07-16-at-10-33-00.png)
 
-### Solution
-Content can be processed automaticall using AI so that meaningful attributes, key phrases and entities such as people, organizations or places can be extracted and added as labels.
+## Use Case 1: Use Case 1: Anonymize Images By Blurring Faces
+Click on below link to open the use case on colab.
 
-### Benefits
--   Easier document retrieval
--   Better recommendations
--   Drive reader engagement by automatically delivering content about their favorite topics
--   Feed content labels into recommendation systems for automatic personalization and better user experience
+https://colab.research.google.com/drive/1-UBnh_ZKJs_ZHA9OohgVGeJ-lyElG_C6?usp=sharing
 
-### Create Your Content Labelling
-1. Open your Jupytor
-Open your created Jupytor.
-2. Import requird libraries
-	```python
-	import python from python
-	```
-3. Login to RAPYD.AI
-	```python
-	import python from python
-	```
-4. Test your first content labelling
-	```python
-	import python from python
-	```
-5. Extend Your Code
-	```python
-	import python from python
-	```
-## Use Case 2: Counting People on Image
+## Use Case 2: Create Content Labels With Entities
 
-## Use Case 3:  Show Wikipedia Info for Tourist Attractions
-
-## Hacking AI
+https://colab.research.google.com/drive/1h__ws47dsn3MlWI79ijN0k1gvblabGBh?usp=sharing
