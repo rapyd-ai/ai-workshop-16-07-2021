@@ -4,7 +4,7 @@
 ## Prerequisites
 
 ### RAPYD.AI Registration
-1. Click below link for Registration.
+1. Sign up for RAPYD.AI here for free: 
 https://www.rapyd.ai/app/sign-up
 
 2. Please check your inbox.
