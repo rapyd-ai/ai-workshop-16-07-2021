@@ -7,7 +7,7 @@
 1. Click below link for Registration.
 https://www.rapyd.ai/app/sign-up
 
-2. Please check your inbox and confirm your email using the link we sent you.
+2. Please check your inbox.
 ![Confirm Email](https://i.ibb.co/SnhKYmT/Screenshot-2021-07-16-at-10-24-03.png)
 
 3. Click on verify the link then should see the message "successfully verified".
